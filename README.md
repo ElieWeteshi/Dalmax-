@@ -1,2 +1,2 @@
-# Dalmax-
-A dalmax game 
+# Dalmax checkers-
+A dalmax checkers game 
